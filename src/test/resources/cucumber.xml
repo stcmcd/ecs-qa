@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <import resource="classpath:applicationContext.xml"/>
+
+    <bean class="org.springframework.beans.factory.config.CustomScopeConfigurer">
+        <property name="scopes">
+            <map>
+                <entry key="thread">
+                    <bean class="org.springframework.context.support.SimpleThreadScope" />
+                </entry>
+            </map>
+        </property>
+    </bean>
+
+    <context:property-placeholder location="classpath:runConfig.properties" ignore-unresolvable="true"
+                                  system-properties-mode="OVERRIDE" />
+
+    <context:component-scan base-package="steve" />
+
+    <!-- Classes that need to be autowired into tests -->
+    <bean id="webDriverDiscovery" class="steve.framework.WebDriverDiscovery"
+          destroy-method="close">
+        <constructor-arg>
+            <value>${driverType}</value>
+        </constructor-arg>
+    </bean>
+
+</beans>

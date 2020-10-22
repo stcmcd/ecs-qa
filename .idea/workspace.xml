@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a854a3e-60af-4461-b18e-4beff2b685b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteveTests1.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SteveTests1.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csvname.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lapTop2019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lapTop2019.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/path.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/BikesExtension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/FileOps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/RestAssuredExtension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/RestAssuredExtension2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/apiConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/configuration/Hosts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/configuration/SystemProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/exception/DatabaseConnectionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/exception/EntityNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/exception/FileNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/exception/IndexEntryDoesNotExistException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/exception/UndefinedBrowserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/framework/AbstractPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/framework/BrowserStackDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/framework/BrowserType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/framework/ScreenShotHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/framework/ScreenShots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/framework/WebDriverDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/models/BaseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steve/pages/TwoSixtyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver-win.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drivers/phantomjs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Arrays1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/BaseStepDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Codility1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Denominator1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/CollectionsExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Colorable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/DifferentWaysToIterateOverHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Enums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/FileOpsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/HashMap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/HtmlDocumentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Lion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/MapEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Monkey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/PG7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BooksStepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/TestAuth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/TestInitialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Vid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/VidStepdefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/bike.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/copyNew.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/dbjson.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/outputAfterCopy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Bikes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Extras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/IndustryIdentidiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Licenses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Locations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Networks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Posts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Stations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/VolumeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/weird.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/ScreenShot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Student9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/TextBlobGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Bucket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/NotFullPaidException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/NotSufficientChangeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/SoldOutException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CoinAmount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CoinHolding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/ProductHolding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vontage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/blobtest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/gmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/javac.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/sBuilderBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/selenium/acre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/twoSixtyStepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SteveTests1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SteveTests1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/BikesExtension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/FileOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/RestAssuredExtension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/apiConstant$apiMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/apiConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/configuration/Hosts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/configuration/SystemProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/exception/DatabaseConnectionException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/exception/EntityNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/exception/FileNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/exception/IndexEntryDoesNotExistException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/exception/UndefinedBrowserException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/AbstractPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/BrowserStackDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/BrowserType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/ScreenShotHook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/ScreenShots$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/ScreenShots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/WebDriverDiscovery$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/framework/WebDriverDiscovery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/models/BaseModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steve/pages/TwoSixtyPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-steve.RunCukesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-steve.RunCukesTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/steve.RunCukesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/steve.RunCukesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/sBuilderBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Arrays1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/BaseStepDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Card$Rank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Card$Suit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Codility/Codility1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Codility/Denominator1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Codility/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Codility/Vontage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/CollectionsExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/ColoredPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/DifferentWaysToIterateOverHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Enums$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Enums$Directions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Enums$EnumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Enums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/FileOpsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Finish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/HashMap1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/HtmlDocumentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Lion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/MapEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Monkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/PG7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Paintable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/PaintedPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/BikeStepdefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/BooksStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/TestAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/TestInitialize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/Vid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/VidStepdefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Bikes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Extras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/IndustryIdentidiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Licenses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Locations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Networks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Posts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/Stations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/pojo/VolumeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/ScreenShot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Sortbyname.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Sortbyroll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Student9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/TextBlobGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/Bucket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/NotFullPaidException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/NotSufficientChangeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/SoldOutException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/VendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/VendingMachineFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/VendingMachineImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/Vending/VendingMachineTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/VendingMachine/CoinAmount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/VendingMachine/CoinHolding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/VendingMachine/ProductHolding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/VendingMachine/VendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/VendingMachine/VendingUnitTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/VendingStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/ecs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/ecs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/gmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/selenium/acre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/twoSixtyStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/xpath1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/xpath2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/xpath3.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SteveTests1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="673">
+              <caret line="211" selection-start-line="211" selection-end-line="211" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RunCukesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new CoinAmount</find>
+      <find>coin</find>
+      <find>getPennies</find>
+      <find>String</find>
+      <find>selectItemAndGetPrice</find>
+      <find>vmachine</find>
+      <find>getTotal</find>
+      <find>abstract</find>
+      <find>altitude</find>
+      <find>status</find>
+      <find>why</find>
+      <find>cucumber.xml</find>
+      <find>item</find>
+      <find>bucket</find>
+      <find>switch</find>
+      <find>totalcoins</find>
+      <find>c</find>
+      <find>asserte</find>
+      <find>totalCoins</find>
+      <find>testng</find>
+      <find>tream</find>
+      <find>stream</find>
+      <find>cashinventory</find>
+      <find>index</find>
+      <find>row</find>
+      <find>arrayrow</find>
+      <find>rebat</find>
+      <find>fileops</find>
+      <find>lgim</find>
+      <find>shifting</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>steve</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Projects\SteveTests</dir>
+      <dir>C:\Projects\SteveTests1\target</dir>
+      <dir>C:\Projects\SteveTests1\src\test\java\steve\step_definitions</dir>
+      <dir>C:\Projects\SteveTests1\src\test\java</dir>
+      <dir>C:\Projects\SteveTests1\src\test\java\steve\step_definitions\Vending</dir>
+      <dir>C:\Projects\SteveTests1\src\test\java\steve\step_definitions\RestAss</dir>
+      <dir>C:\Projects\SteveTests1</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/copy.json" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/copyNew.json" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/outputAfterCopy.json" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/PG7.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/selenium/acre.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Bikes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/steve/framework/WebDriverDiscovery.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/dbjson.json" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/bike.json" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/VidStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Licenses.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Books.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Bikes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Networks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Locations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Stations.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Item.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Inventory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Bucket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/NotFullaidException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/NotSufficientChangeException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/SoldOutException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Sample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Machine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Vending.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CashInMachine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Coin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CoinAmount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/EnterCoins.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CoinHolding.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/ProductHolding.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/steve/BikesExtension.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Extras.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/steve/features/Vending.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/Arrays1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/gmail.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java" />
+        <option value="$PROJECT_DIR$/src/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Automation Test Framework Designed and Created by Steve McDonald" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Automation Test Framework Designed and Created by Steve McDonald" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="45" />
+    <option name="y" value="18" />
+    <option name="width" value="1817" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecs-qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecs-qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="step_definitions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597832043239" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="steve.step_definitions" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="steve.step_definitions" />
+      <recent name="steve" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\SteveTests\src\main\java\Steve\configuration" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="steve.step_definitions.RestAss" />
+      <recent name="steve" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\ecs-qa\src\Chrome85" />
+      <recent name="C:\Projects\SteveTests1\src\test\resources" />
+      <recent name="C:\Projects\SteveTests1\target\classes" />
+      <recent name="C:\Projects\SteveTests1\target\classes\steve" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ecs">
+    <configuration name="ecs (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ecs" />
+      <module name="SteveTests1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ecs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.ecs" />
+      <module name="SteveTests1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steve.step_definitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.gmail" />
+      <module name="SteveTests1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steve.step_definitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 1. Verify City in Country" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="NAME_FILTER" value="^1\. Verify City in Country$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^1\. Verify City in Country$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 1. Verify City in Country" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Enter exact price for drink" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Vending.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="NAME_FILTER" value="^Enter exact price for drink$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Enter exact price for drink$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Enter exact price for drink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Find" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="NAME_FILTER" value="^Find$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Find$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Find" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Denoninator" type="JUnit" factoryName="JUnit">
+      <module name="SteveTests1" />
+      <option name="PACKAGE_NAME" value="steve.step_definitions.Codility" />
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.Codility.Denominator" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lion" type="JUnit" factoryName="JUnit">
+      <module name="SteveTests1" />
+      <option name="PACKAGE_NAME" value="steve.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.Lion" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukesTest" type="JUnit" factoryName="JUnit">
+      <module name="SteveTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="steve.RunCukesTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SteveTests1" />
+      <option name="PACKAGE_NAME" value="steve.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.CollectionsExamples" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.gmail" />
+      <item itemvalue="Application.ecs" />
+      <item itemvalue="Application.ecs (1)" />
+      <item itemvalue="Cucumber java.Scenario: Enter exact price for drink" />
+      <item itemvalue="Cucumber java.Scenario: Find" />
+      <item itemvalue="Cucumber java.Scenario: 1. Verify City in Country" />
+      <item itemvalue="JUnit.Denoninator" />
+      <item itemvalue="JUnit.Lion" />
+      <item itemvalue="JUnit.RunCukesTest" />
+      <item itemvalue="JUnit.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ecs" />
+        <item itemvalue="Application.ecs (1)" />
+        <item itemvalue="Application.gmail" />
+        <item itemvalue="Cucumber java.Scenario: 1. Verify City in Country" />
+        <item itemvalue="Cucumber java.Scenario: Find" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a854a3e-60af-4461-b18e-4beff2b685b5" name="Default Changelist" comment="" />
+      <created>1555615315264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555615315264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 25m 28s.xml">
+      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 27m 02s.xml">
+      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 27m 44s.xml">
+      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 29m 38s.xml">
+      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 30m 23s.xml">
+      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 33m 35s.xml">
+      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 35m 11s.xml">
+      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Find - 2020.10.18 at 19h 35m 31s.xml">
+      <configuration name="Scenario: Find" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__1__Verify_City_in_Country - 2020.10.19 at 17h 34m 58s.xml">
+      <configuration name="Scenario: 1. Verify City in Country" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__1__Verify_City_in_Country - 2020.10.19 at 18h 43m 05s.xml">
+      <configuration name="Scenario: 1. Verify City in Country" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="18" width="1817" height="1010" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5021097" side_tool="true" weight="0.18554354" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.17985202" />
+      <window_info id="Structure" order="6" sideWeight="0.5005701" side_tool="true" weight="0.16960728" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.49925372" weight="0.30216646" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32815966" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50074625" side_tool="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295325" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3295325" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4777651" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.32383123" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Log Analyzer" order="12" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" weight="0.3295325" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.1587934" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Codota" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5021097" side_tool="true" weight="0.18554354" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.17131475" />
+      <window_info id="Structure" order="6" sideWeight="0.5005701" side_tool="true" weight="0.16960728" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Messages" order="1" sideWeight="0.49925372" visible="true" weight="0.30216646" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32815966" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50074625" side_tool="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295325" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3295325" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.34207526" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3477765" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Log Analyzer" order="12" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.1587934" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Codota" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/userLogin/UserLogin.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steve/pages/TwoSixtyPage.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steve/pages/TwoSixtyPage.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steve/framework/AbstractPage.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steve/framework/WebDriverDiscovery.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steve/framework/AbstractPage.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steve/framework/AbstractPage.java</url>
+          <line>511</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/steve/framework/AbstractPage.java</url>
+          <line>523</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Codility.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Codility.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Codility.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Vid.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Vid.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Vid.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BooksStepDefs.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BooksStepDefs.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Vid.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Vid.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/TestAuth.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/TestAuth.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/VidStepdefs.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/VidStepdefs.java</url>
+          <line>207</line>
+          <properties />
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/VidStepdefs.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/selenium/acre.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/selenium/acre.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/VidStepdefs.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar!/com/fasterxml/jackson/databind/JsonMappingException.class</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Machine.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineImpl.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>file://$PROJECT_DIR$/src/src/main/java/steve/framework/AbstractPage.java</url>
+          <line>42</line>
+          <properties field="hostsConfig" class="steve.framework.AbstractPage" />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.0.RELEASE/spring-test-4.0.0.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class</url>
+          <line>35</line>
+          <properties class="org.springframework.test.context.ContextConfiguration" method="name" />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="'array-item-' + c + '-0'" language="JAVA" />
+      </configuration>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="nextKeys" language="JAVA" />
+        <watch expression="json.keySet()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>List&lt;Map&lt;String, String&gt;&gt; asMaps = featuresAccessories.asMaps(String.class, String.class);
+        for (Map&lt;String, String&gt; featureMap : asMaps) {
+            for (Map.Entry&lt;String, String&gt; entry : featureMap.entrySet()) {
+                System.out.println(entry.getValue());
+                System.out.println(entry.getKey());
+
+            }
+        }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>'array-item-' + c + '-0'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;UKUKAppleMaciPadiPhoneWatchTVMusicSupportShopping BagEvaluate COVID‑19 symptoms and understand next stepsShop online and get free, no‑contact delivery, Specialist help, and more.From $9.54/mo. or $229 with trade‑in.$9.54/mo.$229From $19.95/mo. or $479  with trade‑in.$19.95/mo.$479Apple TV plusBoys StateApple Watch Series 51. Trade In: Trade‑in values vary. iPhone 11 and iPhone 11 Pro promotional pricing is after trade‑in of iPhone 8 Plus and iPhone X in good condition. iPhone SE promotional pricing is after trade-in of iPhone 8 in good condition. Additional trade‑in values require purchase of a new iPhone, subject to availability and limits. Must be at least 18. Apple or its trade-in partners reserve the right to refuse or limit any Trade In transaction for any reason. In‑store trade‑in requires presentation of a valid, government-issued photo ID (local law may require saving this information). Sales tax may be assessed on full value of new iPhone. Additional terms from Apple or Apple’s trade-in partners may apply. Monthly pricing: Available to qualified customers and requires 0% APR, 24-month installment loan with Citizens One or Apple Card Monthly Installments and iPhone activation with AT&amp;T, Sprint, T-Mobile, or Verizon. Taxes and shipping not included. Additional Apple Card Monthly Installments terms are in the Customer Agreement. Additional iPhone Payments terms are here.2. Apple Card Monthly Installments is available for certain Apple products and is subject to credit approval and credit limit. See https://support.apple.com/kb/HT211204 for more information about eligible products. iPhone activation required on iPhone purchases made at an Apple Store with one of these national carriers: AT&amp;T, Sprint, Verizon, or T-Mobile. Variable APRs for Apple Card other than Apple Card Monthly Installments range from 10.99% to 21.99% based on creditworthiness. Rates as of April 1, 2020. Taxes and shipping are not included in Apple Card Monthly Installments and are subject to your standard purchase APR. See the Apple Card customer agreement for more information.Or call 1-800-MY-APPLE.&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>driver.findElement(By.xpath(&quot;.//span[contains(text(), 'Submit Answers']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'array-item-' + c + '-0'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;.//td[@data-test-id = 'array-item-' + rowIndex + '-0']//ancestor::tr//descendant::td&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>char() i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>char(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/steve/framework/AbstractPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="e#1683#1684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/4.2.0/rest-assured-4.2.0-sources.jar!/io/restassured/RestAssured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="437" column="35" lean-forward="true" selection-start-line="437" selection-start-column="35" selection-end-line="437" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#73783#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/NotSufficientChangeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/SoldOutException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Codility1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Vending.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/NotFullaidException.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CashInMachine.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/EnterCoins.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/ProductHolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#243#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="147" column="25" selection-start-line="147" selection-start-column="25" selection-end-line="147" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="116" selection-start-line="116" selection-end-line="122" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar!/com/fasterxml/jackson/databind/JsonMappingException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Extras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#3119#3120#0" expanded="true" />
+            <element signature="e#3150#3151#0" expanded="true" />
+            <element signature="e#3195#3196#0" expanded="true" />
+            <element signature="e#3235#3236#0" expanded="true" />
+            <element signature="e#3339#3340#0" expanded="true" />
+            <element signature="e#3368#3369#0" expanded="true" />
+            <element signature="e#3409#3410#0" expanded="true" />
+            <element signature="e#3445#3446#0" expanded="true" />
+            <element signature="e#3506#3507#0" expanded="true" />
+            <element signature="e#3538#3539#0" expanded="true" />
+            <element signature="e#3588#3589#0" expanded="true" />
+            <element signature="e#3630#3631#0" expanded="true" />
+            <element signature="e#3747#3748#0" expanded="true" />
+            <element signature="e#3776#3777#0" expanded="true" />
+            <element signature="e#3821#3822#0" expanded="true" />
+            <element signature="e#3857#3858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/steve/BikesExtension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/VidStepdefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="41" selection-start-line="41" selection-end-line="41" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CoinAmount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Bucket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Vending.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/VendingMachineImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/gmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrameworkUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/FileOpsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Arrays1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="192" column="39" selection-start-line="192" selection-start-column="39" selection-end-line="192" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/selenium/acre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="98" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BooksStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Vid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="74" column="184" selection-start-line="74" selection-end-line="74" selection-end-column="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CoinHolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunCukesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SteveTests1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: io.rest-assured:xml-path:4.2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
